@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jbosco 👋
 
-<!--
-**Jbosco339/Jbosco339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate and an aspiring Full-Stack Web Developer.  
+I enjoy building interactive websites and learning new technologies to improve my skills.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+Some of the projects I’m currently showcasing:
+- *Portfolio Website* – My personal portfolio to display projects and skills.
+- *JavaScript User Form App* – A simple project to add and display user data dynamically.
+- *Calculator App (React)* – My first calculator app built with React to practice state management.
+- *React Profile Card Component* – A reusable component to practice props and component structure.
+- *Amachika Farms* – A business website for an integrated farm.
+
+### 🌱 Currently Learning
+-Become a full-stack developer
+- Build real-world application
+- Contribute to open-source projects
+  
+
+### 📫 Connect with Me
+- GitHub: [https://github.com/Jbosco339](https://github.com/Jbosco339)
