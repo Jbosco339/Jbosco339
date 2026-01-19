@@ -18,7 +18,7 @@ Some of the projects I’m currently showcasing:
 - *Calculator App (React)* – My first calculator app built with React to practice state management.
 - *React Profile Card Component* – A reusable component to practice props and component structure.
 - *Amachika Farms* – A business website for an integrated farm.
-- Let's Meat - A restaurant website
+- Crav Hub - A restaurant website
 
 ### 🌱 Currently Learning
 -Become a full-stack developer
