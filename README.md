@@ -20,6 +20,9 @@ Some of the projects I’m currently showcasing:
 - *React Profile Card Component* – A reusable component to practice props and component structure.
 - *Amachika Farms* – A business website for an integrated farm.
 - *Crav Hub - A restaurant website
+- Homie Furniture-a furniture sale website built for easy customer acess
+- Mr Chuks- an eatery website build for mr chuks kitchen to broaden his target customers
+- Story Timex- A bloging website writers come to write and readers come to read or do both reading and writing
 
 ### 🌱 Currently Learning
 -Become a full-stack developer
