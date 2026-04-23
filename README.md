@@ -14,12 +14,12 @@ I enjoy building interactive websites and learning new technologies to improve m
 
 ### 📂 Projects
 Some of the projects I’m currently showcasing:
+- Favsman Artistry - A company into  POP ceilings, screeding, stucco, art work, furniture, etc.
 - Story Timex- A bloging website writers come to write and read
 - Mr Chuks- an eatery website build for mr chuks kitchen to broaden his target customers
 - Portfolio Website – My personal portfolio to display projects and skills.
 - Homie Furniture-a furniture sale website built for easy customer acess
 - JavaScript User Form App – A simple project to add and display user data dynamically.
-- Calculator App (React) – My first calculator app built with React to practice state management.
 - React Profile Card Component – A reusable component to practice props and component structure.
 - Amachika Farms – A business website for an integrated farm.
 - Crav Hub - A restaurant website
