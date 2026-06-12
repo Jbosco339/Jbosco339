@@ -1,25 +1,28 @@
 # Hi, I'm Benjamin(Jboscoo) 👋
 
-I'm a Computer Science graduate and an aspiring Full-Stack Web Developer.  
-I enjoy building interactive websites and learning new technologies to improve my skills.
+Frontend Developer experienced in building modern web applications and delivering client projects. Currently studying backend development to become a MERN Stack Developer while continuously improving my skills in full-stack web development.
 
-### 🛠 Tech Stack
-- HTML
-- CSS
-- Boostrap
-- JavaScript
-- React
-- Tailwind css
-- Git & GitHub
+**Technical Skills**
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript (ES6+)
+* React.js
+* Tailwind CSS
+* Git & GitHub
+* Responsive Web Design
+* REST API Integration
+* Backend Development (Currently Learning)
+
 
 ### 📂 Projects
 Some of the projects I’m currently showcasing:
+- Bright Leaders Academy – A responsive school website, focusing on user experience, accessibility, and modern web design principles.
+- Ramto Global – A professional website for a cleaning services business, creating a     responsive interface to showcase services and improve online visibility.
 - Favsman Artistry - A company into  POP ceilings, screeding, stucco, art work, furniture, etc.
 - Story Timex- A bloging website writers come to write and read
 - Mr Chuks- an eatery website build for mr chuks kitchen to broaden his target customers
-- Portfolio Website – My personal portfolio to display projects and skills.
 - Homie Furniture-a furniture sale website built for easy customer acess
-- JavaScript User Form App – A simple project to add and display user data dynamically.
 - React Profile Card Component – A reusable component to practice props and component structure.
 - Amachika Farms – A business website for an integrated farm.
 - Crav Hub - A restaurant website
