@@ -35,5 +35,5 @@ Some of the projects I’m currently showcasing:
   
 ### 📫 Connect with Me
 - benjaminadakole20@gmail.com
-- https://www.linkedin.com/in/benjamin-adakole-069717170?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBciWz0U9T0SFyjsA%2Br1vAQ%3D%3D
+- LinkedIn: https://www.linkedin.com/in/benjamin-adakole-069717170?
 - GitHub: [https://github.com/Jbosco339](https://github.com/Jbosco339)
