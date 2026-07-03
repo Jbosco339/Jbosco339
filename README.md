@@ -1,6 +1,7 @@
 # Hi, I'm Benjamin(Jboscoo) 👋
 
-Frontend Developer experienced in building modern web applications and delivering client projects. Currently studying backend development to become a MERN Stack Developer while continuously improving my skills in full-stack web development.
+Full-Stack MERN Developer specializing in MongoDB, Express.js, React, and Node.js. I build responsive, scalable web applications and enjoy turning ideas into clean, efficient, and user-focused digital experiences.
+
 
 ## Technical Skills
 * HTML5
@@ -12,7 +13,9 @@ Frontend Developer experienced in building modern web applications and deliverin
 * Git & GitHub
 * Responsive Web Design
 * REST API Integration
-* Backend Development (Currently Learning)
+* MongoDB
+* Express.js
+* Node.js
 
 
 ### 📂 Projects
