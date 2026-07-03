@@ -35,6 +35,7 @@ Some projects I’m currently showcasing:
 - Contribute to open-source projects
   
 ### 📫 Connect with Me
+- Portfolio website: https://benjamin-adakole-portfolio.vercel.app
 - benjaminadakole20@gmail.com
 - LinkedIn: https://www.linkedin.com/in/benjamin-adakole-069717170?
 - GitHub: [https://github.com/Jbosco339](https://github.com/Jbosco339)
